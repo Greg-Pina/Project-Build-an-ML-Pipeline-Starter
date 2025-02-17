@@ -1,6 +1,6 @@
 ## Links
 
-- [Weights & Biases Project](https://wandb.ai/pinagm2825-western-governors-university/nyc_airbnb)
+- [Weights & Biases Project](https://wandb.ai/pinagm2825-western-governors-university/nyc_airbnb?nw=nwuserpinagm2825)
 - [GitHub Repository](https://github.com/Greg-Pina/Project-Build-an-ML-Pipeline-Starter)
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
